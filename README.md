@@ -35,6 +35,8 @@ Work in progress
 
 [Небольшое расследование о HoloNet](http://telegra.ph/Nebolshoe-rassledovanie-o-HoloNet-05-03)
 
+[Расследование сайта с таймером nekusai.org](https://telegra.ph/Neindeksiruemye-direktorii-ne-zashchityat-vas-ot-vzloma-11-15)
+
 [Вестник I2P](https://github.com/vestnik-i2p/vestnik-i2p)
 
 ## Софт
